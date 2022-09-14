@@ -1,5 +1,5 @@
 ---
-title: AI in the Industry Tutorials (Density Estimation for Anomaly Detection)
+title: AI in the Industry Tutorials (Density Estimation for Simple Methods)
 author: michele.lombardi2@unibo.it
 ---
 
@@ -22,7 +22,7 @@ Students are strongly encouraged to _run all lectures locally_. Doing this will 
 instructions](https://docs.docker.com/compose/install/)
 * Clone the repository with the tutorial, in this case via the command:
 ```sh
-git clone https://github.com/lompabo/aiiti-01-2021.git
+git clone https://github.com/a3i-2022-2023/01-ad-simple
 ```
 * Start the container via Docker Compose, from the main directory of the
 tutorial:
